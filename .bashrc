@@ -1,0 +1,13 @@
+alias ocaml="ledit ocaml"
+alias d="dvipdfmx"
+alias e="emacs"
+alias gpull="git pull origin master"
+alias gpush="git push origin master"
+alias gfetch="git fetch origin master"
+alias i="git init"
+alias j="java"
+alias jc="javac"
+alias p="platex"
+alias s="ssh abelia05"
+
+PATH="/usr/local/bin:/Users/yusei/bin:$PATH"

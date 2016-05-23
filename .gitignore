@@ -1,0 +1,10 @@
+.DS_Store
+.emacs.d/elpa/
+*.elc
+.emacs.d/auto-save-list/
+.emacs.d/tramp
+.emacs.d/test.ml
+*~
+.emacs.d/abbrev_defs
+.emacs.d/kkcrc
+.emacs.d/projectile-bookmarks.eld

@@ -1,0 +1,8 @@
+[user]
+	name = ranthy
+	email = realthingshakes25@gmail.com
+[core]
+	editer = emacs
+
+[alias]
+l = log --graph --date=short --pretty=format:'%C(red reverse)%d%Creset%C(white reverse) %h% Creset %C(green reverse) %an %Creset %C(cyan)%ai%Creset%n%C(white bold)%w(80)%s%Creset%n%n%w(80,2,2)%b
